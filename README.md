@@ -48,3 +48,9 @@ Kas neveikia:
 - Išsaugoti rekordą (geriausią laiką), kad būtų galima sekti reakcijos greičio progresą.
 - Patobulinti mygtuko veikimą (visiškai tinkamą reagavimą į paspaudimus).
 
+
+## Demonstracinis filmukas
+
+https://github.com/user-attachments/assets/49004cdf-9b5a-4580-bf9d-5179f1f8324d
+
+
